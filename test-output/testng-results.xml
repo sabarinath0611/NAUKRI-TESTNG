@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-05T07:11:13 GMT-08:00" name="Suite" finished-at="2026-01-05T07:11:29 GMT-08:00" duration-ms="16693">
+    <groups>
+    </groups>
+    <test started-at="2026-01-05T07:11:13 GMT-08:00" name="Test" finished-at="2026-01-05T07:11:29 GMT-08:00" duration-ms="16693">
+      <class name="com.runner.PracticeRunnerClass">
+        <test-method signature="edge()[pri:0, instance:com.runner.PracticeRunnerClass@2925bf5b]" started-at="2026-01-05T07:11:13 GMT-08:00" name="edge" finished-at="2026-01-05T07:11:28 GMT-08:00" duration-ms="15520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edge -->
+        <test-method signature="chrome()[pri:0, instance:com.runner.PracticeRunnerClass@2925bf5b]" started-at="2026-01-05T07:11:13 GMT-08:00" name="chrome" finished-at="2026-01-05T07:11:29 GMT-08:00" duration-ms="16547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrome -->
+      </class> <!-- com.runner.PracticeRunnerClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
